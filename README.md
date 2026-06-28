@@ -1,3 +1,5 @@
+# jerryleooo
+
 Senior Backend / Distributed Systems Engineer based in Singapore.
 
 I build high-throughput data and compliance infrastructure: query engines, platform reliability systems, microservices, and risk-detection workflows. My strongest work sits at the point where backend engineering, distributed data systems, and business-critical operations meet.
