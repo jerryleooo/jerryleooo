@@ -61,6 +61,6 @@ I am especially interested in roles where backend systems have to be correct, ob
 
 ## Contact
 
-- Email: [whilgeek@gmail.com](mailto:whilgeek@gmail.com)
+- Email: [07shoal.puppy@icloud.com](mailto:07shoal.puppy@icloud.com)
 - GitHub: [jerryleooo](https://github.com/jerryleooo)
 - Location: Singapore PR
